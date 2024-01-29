@@ -8,6 +8,7 @@ export default function Dictionary() {
   const [results, setResults] = useState(null);
 
   function handleResponse(response) {
+    console.log(response.data.phonetic);
     setResults(response.data);
   }
 
