@@ -2,3 +2,7 @@
 .Results {
   text-align: center;
 }
+
+li {
+  list-style: none;
+}
