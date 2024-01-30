@@ -1,3 +1,17 @@
-li {
-  list-style: none;
+.Meanings h3 {
+  font-size: 22px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: #081742;
+}
+
+.Meanings .definition {
+  font-size: 18px;
+}
+.Meanings .example {
+  font-size: 16px;
+  font-style: italic;
+  color: #70757a;
+  margin-top: 10px;
 }

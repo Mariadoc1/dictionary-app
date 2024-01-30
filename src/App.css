@@ -6,7 +6,23 @@ body {
   margin: 30px 0;
 }
 
+.App h1 {
+  font-weight: bold;
+  font-size: 45px;
+  text-align: center;
+  margin: 40px 0;
+  color: #081742;
+}
+
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+.bookLeft {
+  margin-right: 15px;
+}
+
+.bookRight {
+  margin-left: 14px;
 }

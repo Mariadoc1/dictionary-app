@@ -4,3 +4,19 @@
   line-height: 1.5;
   text-transform: capitalize;
 }
+
+.Synonyms {
+  position: relative;
+  left: -32px;
+  margin-top: 20px;
+}
+
+.synonymTitle {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 8px;
+}
