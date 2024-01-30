@@ -2,8 +2,11 @@ import React from "react";
 
 export default function Phonetic(props) {
   return (
-    <div className="Phonetic">
-      <h4>{props.phonetic}</h4>
-    </div>
+    <section>
+      <div className="Phonetic">
+        <h3>Phonetic:</h3>
+        <p> {props.phonetic} </p>
+      </div>
+    </section>
   );
 }
