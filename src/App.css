@@ -42,3 +42,7 @@ body {
 .bookRight {
   margin-left: 14px;
 }
+
+footer a {
+  color: #081742;
+}

@@ -15,13 +15,34 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Maria Docherty. Open-sourced on Github and hosted on
-            Netlify.
+            Coded by{" "}
+            <a
+              href="https://github.com/Mariadoc1"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Maria Docherty
+            </a>
+            . Open-sourced on{" "}
+            <a
+              href="https://github.com/Mariadoc1/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://monumental-macaron-bb4492.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+            .
           </small>
         </footer>
       </div>
     </div>
   );
 }
-
-//Picture API Key: AAHw56hScoO1bbk8w3aPxMDGDjEJtJQwG9ZXpaw4ABkGArYItNR6O7qY
