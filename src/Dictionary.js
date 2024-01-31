@@ -5,7 +5,7 @@ import Results from "./Results.js";
 import "./Dictionary.css";
 
 export default function Dictionary(props) {
-  const [keyword, setKeyword] = useState("dictionary");
+  const [keyword, setKeyword] = useState("beach");
   const [results, setResults] = useState(null);
   const [loaded, setLoaded] = useState(false);
 
